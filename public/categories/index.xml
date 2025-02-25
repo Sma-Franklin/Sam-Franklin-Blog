@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Blowfish</title>
+    <link>http://localhost:1313/Sam-Franklin-Blog/categories/</link>
+    <description>Recent content in Categories on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
+    <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
+    <copyright>© 2025 Sam Franklin</copyright>
+    <atom:link href="http://localhost:1313/Sam-Franklin-Blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Life blog</title>
+      <link>http://localhost:1313/Sam-Franklin-Blog/categories/life-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>http://localhost:1313/Sam-Franklin-Blog/categories/life-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/Sam-Franklin-Blog/categories/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>http://localhost:1313/Sam-Franklin-Blog/categories/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Science Blog</title>
+      <link>http://localhost:1313/Sam-Franklin-Blog/categories/science-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>http://localhost:1313/Sam-Franklin-Blog/categories/science-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
