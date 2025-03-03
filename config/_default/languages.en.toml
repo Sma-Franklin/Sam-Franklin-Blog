@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Sam's Blog"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -19,10 +19,10 @@ title = "Blowfish"
    email = "samuel.franklin@port.ac.uk"
    image = "img/black-hole-drawing.png"
    imageQuality = 96
-   headline = "The black holes of nature are the most perfect macroscopic objects there are in the Universe - S. Chandrasekhar"
+   headline = "The black holes of nature are the most perfect macroscopic objects there are in the Universe -S.Chandrasekhar"
    bio = "I'm a PhD candidate studying black holes, gravity and cosmology"
    links = [
-     { email = "samuel.franklin@port.ac.uk" },
+#     { email = "samuel.franklin@port.ac.uk" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

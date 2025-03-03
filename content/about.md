@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 description: "My Bio"
 ---
 I'm Sam, a PhD candidate studying theoretical black hole physics. I study at the institute of cosmology and gravitation in Portsmouth.
