@@ -19,7 +19,7 @@ Unfortunately for our heroes they were ambushed and captured by Glarbos minons. 
 
 ---
 ## The Pit
-### Room 1 - The fighting pit
+### The fighting pit
 The party awakenes to the goblin king laughing maniechally at them from above. A crowd of goblins cheer him on.
 
 **Combat:** The gates to the pit open letting in the parties first combatants. whatever these are is up to you as a DM. It could be a group of poor creatures the goblins also captured or a group of misbehaving goblins. I decided my group would fight some goblin ratriders, bounding around on the back of their giant rats.
