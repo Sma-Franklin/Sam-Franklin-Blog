@@ -21,8 +21,8 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/ripples.svg" # used as default for background images 
-defaultFeaturedImage = "/img/ripples.svg" # used as default for featured images in all articles
+defaultBackgroundImage = "/img/nasa-merge-smbh.webp" # used as default for background images 
+# defaultFeaturedImage = "/img/ripples.svg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true

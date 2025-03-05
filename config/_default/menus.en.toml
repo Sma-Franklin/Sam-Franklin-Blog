@@ -17,8 +17,7 @@
 
 [[main]]
   name = "Research"
-  parent= "Posts"
-  pageRef = "categories/research"
+  pageRef = "research"
   weight = 20
 
 [[main]]
