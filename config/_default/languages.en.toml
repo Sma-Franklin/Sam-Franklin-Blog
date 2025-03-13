@@ -9,9 +9,9 @@ title = "Sam's Blog"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  # logo = "img/BH-logo-50.png"
+  # secondaryLogo = "img/BH-logo.png"
+  description = "My place to yap about black holes, boardgames and life"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]

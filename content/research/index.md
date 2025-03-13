@@ -21,8 +21,10 @@ showZenMode: true
 
 {{< katex >}}
 
-# The Isospectrality Problem
-\\(\varphi=\dfrac{1}{2}\\)
+# Bugging Black Holes
+What happens to a black hole when we spin it or poke it a little bit? (Mathematically I mean, please don't try this in real life). This is what we call a black hole perturbation and it leads to the black hole wobbling (in annoyance).
+
+So why am I interested in bugging black holes like this? 
 
 # The Black Hole Universe
 
