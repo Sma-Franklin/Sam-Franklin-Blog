@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam&#39;s Blog</title>
-    <link>http://localhost:1313/Sam-Franklin-Blog/tags/</link>
+    <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/</link>
     <description>Recent content in Tags on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
     <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
     <copyright>© 2025 Sam Franklin</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sam-Franklin-Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>D&amp;D</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/tags/dd/</link>
+      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/dd/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/tags/dd/</guid>
+      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/dd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>TTRPGs</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/tags/ttrpgs/</link>
+      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/ttrpgs/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/tags/ttrpgs/</guid>
+      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/ttrpgs/</guid>
       <description></description>
       
     </item>
