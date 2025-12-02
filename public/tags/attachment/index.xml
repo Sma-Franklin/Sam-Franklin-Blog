@@ -18,7 +18,7 @@
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
       <guid>http://localhost:1313/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</guid>
       <description>A Poster Explaining the Black Hole Isospectrality problem.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/Featured.png" />
     </item>
     
   </channel>

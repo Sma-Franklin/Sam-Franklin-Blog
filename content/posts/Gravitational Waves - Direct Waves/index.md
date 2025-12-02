@@ -1,6 +1,6 @@
 ---
 title: "New Types of Gravitational Waves"
-date: 2025-11-15
+date: 2025-12-01
 draft: false
 summary: "In a recent black hole merger events a new type of gravitational wave might have been detected. Here I'll give a quick overview of what this new signature is, how it was found and how it could be usefull."
 tags: ["Gravitational Waves","Black Holes"]
