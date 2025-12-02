@@ -1,7 +1,7 @@
 ---
 title: "Cryptic Secrets: The Pit"
 date: 2025-03-03
-draft: false
+draft: true
 summary: "A recent oneshot dungeon I made with goblins, mimics and pit fights"
 tags: ["D&D","TTRPGs"]
 categories: ["life-blog"]
