@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam&#39;s Blog</title>
-    <link>http://localhost:1313/Sam-Franklin-Blog/tags/</link>
+    <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/</link>
     <description>Recent content in Tags on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
     <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
     <copyright>© 2025 Sam Franklin</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sam-Franklin-Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Attachment</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/tags/attachment/</link>
+      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/attachment/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/tags/attachment/</guid>
+      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/attachment/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Black Holes</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/tags/black-holes/</link>
+      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/black-holes/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/tags/black-holes/</guid>
+      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/black-holes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gravitational Waves</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/tags/gravitational-waves/</link>
+      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/gravitational-waves/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/tags/gravitational-waves/</guid>
+      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/gravitational-waves/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Poster</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/tags/poster/</link>
+      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/poster/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/tags/poster/</guid>
+      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/poster/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Paper</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/tags/paper/</link>
+      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/paper/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/tags/paper/</guid>
+      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/paper/</guid>
       <description></description>
       
     </item>
