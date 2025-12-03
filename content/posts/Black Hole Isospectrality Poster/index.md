@@ -6,4 +6,5 @@ summary: "A Poster Explaining the Black Hole Isospectrality problem. "
 tags: ["Poster", "Attachment"]
 categories: ["science-blog"]
 ---
+
 ![Black Hole Isospectrality Poster](/Featured.png "Black Hole Isospectrality Poster.")
