@@ -8,5 +8,5 @@ tags: ["Paper"]
 categories: ["science-blog"]
 ---
 
-[MPhys Thesis](images/mphys_thesis.pdf)     
+[MPhys Thesis](images/Mphys_Thesis.pdf)     
 

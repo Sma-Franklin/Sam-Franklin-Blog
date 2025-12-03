@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attachment on Sam&#39;s Blog</title>
-    <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/attachment/</link>
+    <link>http://localhost:1313/Sam-Franklin-Blog/tags/attachment/</link>
     <description>Recent content in Attachment on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
     <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
     <copyright>© 2025 Sam Franklin</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Sma-Franklin.github.io/Sam-Franklin-Blog/tags/attachment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sam-Franklin-Blog/tags/attachment/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Black Hole Isospectrality Poster</title>
-      <link>https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</link>
+      <link>http://localhost:1313/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</guid>
+      <guid>http://localhost:1313/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</guid>
       <description>A Poster Explaining the Black Hole Isospectrality problem.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/Featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/Featured.png" />
     </item>
     
   </channel>
