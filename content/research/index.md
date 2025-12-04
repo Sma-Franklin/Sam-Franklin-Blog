@@ -21,19 +21,19 @@ showZenMode: true
 
 {{< katex >}} 
 
-# The Black Hole Isospectrallity Problem
+# The Black Hole Isospectrality Problem
 My main research interest at the moment is black hole perturbation theory which is used to investigate what happens to black holes when we spin or poke them a little bit. There are the two distinct types of what we call perturbations and they lead to the black hole spacetime vibrating (in annoyance):
 
 ![An animation of the quadropole vibration of a sphere. This is similar to how a perturbed black hole would vibrate](/images/quadrupole_vibration.gif "An animation of the quadropole vibration of a sphere. This is similar to how a perturbed black hole spacetime would vibrate.")
 
 So why am I interested in bugging black holes like this? 
-Im interested in something called the Isospectrallity problem. 
+I'm interested in something called the Isospectrality problem. 
 "Iso" is a fancy way to say "equal" and "spectral" refers to the "spectrum" of the black holes vibrations. 
 So "Isospectral" means "equal spectrum", in this case the spectrums are the vibrations generated when we either "poke" or "spin" the black hole.
-Isospctrality arises from a particularly weird mathematical relationship between how a black hole reacts to being either spun or poked.
+Isospectrality arises from a particularly weird mathematical relationship between how a black hole reacts to being either spun or poked.
 
 While the maths of this was discovered by Subrahmanyan Chandrasekhar in 1983, the physical understanding of it remains a puzzling mystery.
-Im particularly interested in investigating if black isospectrality remains when we account for quantum effects like Hawkin radiation at the black hole horizon.
+I'm particularly interested in investigating if black hole isospectrality remains when we account for quantum effects like Hawking radiation at the black hole horizon.
 
 # Black Hole Cosmologies
 In standard cosmology it's assumed the universe is infinite: infinite mass spread over an infinite volume. 

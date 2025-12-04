@@ -2,15 +2,15 @@
 title: "New Types of Gravitational Waves"
 date: 2025-12-01
 draft: false
-summary: "In a recent black hole merger events a new type of gravitational wave might have been detected. Here I'll give a quick overview of what this new signature is, how it was found and how it could be usefull."
+summary: "In a recent black hole merger events a new type of gravitational wave might have been detected. Here I'll give a quick overview of what this new signature is, how it was found and how it could be useful."
 tags: ["Gravitational Waves","Black Holes"]
 categories: ["science-blog"]
 ---
 
-In a recent black hole merger events a new type of gravitational wave might have been detected. Here I'll give a quick overview of what this new signature is, how it was found and how it could be usefull.
+In a recent black hole merger event a new type of gravitational wave might have been detected. Here I'll give a quick overview of what this new signature is, how it was found and how it could be useful.
 
 ## Background
-To give you some context, the gravitational waves we detect at the moment are most often from the merging of two black holes. This produces a characteristic signal with three distinct regions: the inspiral, the merger and the ringdown. The inspiral phase is generated while the two black holes orbit one another although its only detectable for a few seconds when they're close enough. The merger is the peak of the signal from when the black holes actually coalesce. Finally the ringdown happens after the peak of the merger as the spacetime around the remnant black hole settles down.
+To give you some context, the gravitational waves we detect at the moment are most often from the merging of two black holes. This produces a characteristic signal with three distinct regions: the inspiral, the merger and the ringdown. The inspiral phase is generated while the two black holes orbit one another although it's only detectable for a few seconds when they're close enough. The merger is the peak of the signal from when the black holes actually coalesce. Finally the ringdown happens after the peak of the merger as the spacetime around the remnant black hole settles down.
 
 ![An example of a typical gravitational wave signal from a black hole merger](/images/Gravitational_Wave.png "An example of a typical gravitational wave signal from a black hole merger")
 
@@ -22,11 +22,11 @@ These differ from the well understood quasi-normal modes (QNMs) of the ringdown 
 
 ![A schematic diagram of direct wave emission for an extreme mass ratio inspiral.](/images/Direct_Wave_Schematic.png "A schematic diagram of direct wave emission for an extreme mass ratio inspiral.")
 
-Within the last 2 months several important tests of direct wave have made.
+Within the last 2 months several important tests of direct wave have been made.
 Firstly their existence was verified by some clever analysis on numerical relativity simulations. 
 Secondly a direct wave was discovered in the signal of an actual gravitational wave (GW250114).
 
-![The signal for GW250114, before removing the QNMs (top), after removing the QNMs (middle), and after removing the direct wave (bottom)](/images/Direct_Wave_detection.png "The signal for GW250114, before removing the QNMs (top), after removing the QNM (middle), and after removing the direct wave (bottom).")
+![The signal for GW250114, before removing the QNMs (top), after removing the QNMs (middle), and after removing the direct wave (bottom)](/images/Direct_Wave_detection.png "The signal for GW250114, before removing the QNMs (top), after removing the QNMs (middle), and after removing the direct wave (bottom).")
 
 ## Why do we care?
 Finding these direct waves and being able to detect them is a pretty huge deal in the long run. 

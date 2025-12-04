@@ -10,23 +10,23 @@ categories: ["life-blog"]
 'The Pit' is a recent oneshot about classic D&D tropes: goblins, mimics,  ancient magic and of course Pit fights.
 I made this to try out the 'Nimble (2.0)' system with some friends. Some are experience with TTRPGs and some new to them. So this mini-dungeon should work for any group.
 
-Although we were testing Nimble I've written this dungeon to be system agnosic. You'll just need to find/make a few statblocks for goblins & mimics in the system you're using. I ran this at level 1 but any low level should work just change the number of enemies in your combats.
+Although we were testing Nimble I've written this dungeon to be system agnostic. You'll just need to find/make a few statblocks for goblins & mimics in the system you're using. I ran this at level 1 but any low level should work just change the number of enemies in your combats.
 
 ---
 ## The Premise
 The heroes are an established adventuring party who travelled into the forest to slay the Goblin King 'Glarbo'.
-Unfortunately for our heroes they were ambushed and captured by Glarbos minons. The adventure now begins with the players waking up together within "The Pit".
+Unfortunately for our heroes they were ambushed and captured by Glarbo's minions. The adventure now begins with the players waking up together within "The Pit".
 
 ---
 ## The Pit
 ### The fighting pit
-The party awakenes to the goblin king laughing maniechally at them from above. A crowd of goblins cheer him on.
+The party awakens to the goblin king laughing maniacally at them from above. A crowd of goblins cheer him on.
 
 **Combat:** The gates to the pit open letting in the parties first combatants. whatever these are is up to you as a DM. It could be a group of poor creatures the goblins also captured or a group of misbehaving goblins. I decided my group would fight some goblin ratriders, bounding around on the back of their giant rats.
 
 **Objects/areas:** 
-- A rusty magic sword buried under the rubble  missing a gem needed to activate it
-- A number of hung  lanterns around the edges (only 2 still work)
+- A rusty magic sword buried under the rubble missing a gem needed to activate it
+- A number of hanging lanterns around the edges (only 2 still work)
 
 
 ### Pit prisons 
@@ -36,7 +36,7 @@ After the fight is done the players are thrown in this circular room to catch th
 
 **Creatures:** 
 - A chained up giant Komodo dragon/ salamander with a fire breath attack
-- Several chained up giant rats covered in flees, dirt and disease
+- Several chained up giant rats covered in fleas, dirt and disease
 
 **Objects/ areas:**
 - Secret hatch from ancient times in a statue. To trigger a weapon/ pickaxe must be placed in the statues hand (which is currently empty). _**Leads to secret room**_
