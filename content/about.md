@@ -9,3 +9,5 @@ I'm Sam, a PhD candidate studying theoretical black hole physics at the Institut
 
 Aside from physics I have a wide variety of hobbies including: reading, board games, weight lifting, guitar, and mini-painting.
 I'll be posting about some of these interests here alongside my science posts. 
+
+{{< googlePdfReader "1I78A_1yq636xU1_rhmU3TfJOxkfESqrJ" "Title" >}}
