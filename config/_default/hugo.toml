@@ -6,6 +6,8 @@ theme = "blowfish"
 baseURL = "https://Sma-Franklin.github.io/Sam-Franklin-Blog"
 defaultContentLanguage = "en"
 
+enableInlineShortcodes = true
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true

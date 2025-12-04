@@ -1,7 +1,7 @@
 ---
 title: "Cryptic Secrets: The Pit"
 date: 2025-03-03
-draft: true
+draft: false
 summary: "A recent oneshot dungeon I made with goblins, mimics and pit fights"
 tags: ["D&D","TTRPGs"]
 categories: ["life-blog"]
@@ -48,7 +48,7 @@ A small circular room only found through the hidden hatch on the statue in the _
 
 **Objects/ areas:**
 - A stone ladder built into the wall. At the top is a hatch hidden to blend in the with stone floor slates in the seating area.  _**Leads to pit seating**_
-- A red gemstone (matched with the one for the magic sword) embedded in a ‘chest’ (mimic)
+- A red gemstone (matched with the one for the magic sword) embedded in a ‘chest’ (mimic). When placed into the sword it becomes a flame tongue.
 - Strange runes mark the walls spiralling upwards. In 4 sections: for wind, fire, ice and lightning. When a spell of appropriate type is cast on each a secret hatch containing a magic wand will open.
 
 ### Pit seating

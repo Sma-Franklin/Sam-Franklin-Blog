@@ -6,6 +6,9 @@ summary: "In a recent black hole merger events a new type of gravitational wave 
 tags: ["Gravitational Waves","Black Holes"]
 categories: ["science-blog"]
 ---
+
+In a recent black hole merger events a new type of gravitational wave might have been detected. Here I'll give a quick overview of what this new signature is, how it was found and how it could be usefull.
+
 ## Background
 To give you some context, the gravitational waves we detect at the moment are most often from the merging of two black holes. This produces a characteristic signal with three distinct regions: the inspiral, the merger and the ringdown. The inspiral phase is generated while the two black holes orbit one another although its only detectable for a few seconds when they're close enough. The merger is the peak of the signal from when the black holes actually coalesce. Finally the ringdown happens after the peak of the merger as the spacetime around the remnant black hole settles down.
 
