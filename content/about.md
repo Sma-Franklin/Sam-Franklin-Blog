@@ -1,13 +1,10 @@
 ---
-title: "About"
-description: "My Bio"
-date: 2025-02-28
+title: "CV"
+description: "My CV"
+date: 2025-12-06
 showHero: true
 heroStyle: "background"
 ---
-I'm Sam, a PhD candidate studying theoretical black hole physics at the Institute of Cosmology and Gravitation in Portsmouth.
-
-Aside from physics I have a wide variety of hobbies including: reading, board games, weight lifting, guitar, and mini-painting.
-I'll be posting about some of these interests here alongside my science posts. 
+Here is a copy of my CV
 
 {{< googlePdfReader "1I78A_1yq636xU1_rhmU3TfJOxkfESqrJ" "Title" >}}

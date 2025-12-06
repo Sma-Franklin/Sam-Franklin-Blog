@@ -33,7 +33,7 @@
   weight = 40
 
 [[main]]
-  name = "About"
+  name = "CV"
   pageRef = "about"
   weight = 70
 

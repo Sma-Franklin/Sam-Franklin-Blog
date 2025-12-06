@@ -2,11 +2,17 @@
 title: "Homepage"
 description: "The homepage/ bio page"
 ---
-# Welcome!
-Here you can find out all about my research into black holes and read my posts about whatever else I'm interested in.
-Expect general relativity, cosmology, QFT on curved spacetime, machine learning and more. 
+I'm Sam, a graduate researcher at the [Institute of Cosmology and Gravitation](https://www.port.ac.uk/research/institute-of-cosmology-and-gravitation) in Portsmouth. 
+My primary research interest is **black hole perturbation theory** and the quasinormal ringdown of gravitational waves. 
+I am currently studying how applying quantum boundary conditions at the horizon changes quasinormal mode spectra and the isospectrality between axial and polar perturbations. 
 
-You might also be interested in checking out my posts about some of my hobbies like book reviews, board games and travel.
+I am supervised by [Professor Enrique Gaztanaga](https://darkcosmos.com/), [Professor Kazuya Koyama](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/kazuya-koyama), and [Dr Sravan Kumar Korumilli](https://researchportal.port.ac.uk/en/persons/sravan-kumar-korumilli/).
 
-If you're interested in my credentials here is my CV!
+For more information on my current interests visit my [research]({{< ref "/research/index.md" >}}) page. 
+For more information on my past work and how to contact me visit my [CV]({{< ref "about.md" >}}) page.
+
+---
+
+Aside from physics I have a wide variety of hobbies including: reading, board games, weight lifting, guitar, and mini-painting.
+I'll be posting about some of these interests here alongside my science posts. 
 
