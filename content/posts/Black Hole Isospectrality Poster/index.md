@@ -2,9 +2,12 @@
 title: "Black Hole Isospectrality Poster"
 date: 2025-12-01
 draft: false
-summary: "A Poster Explaining the Black Hole Isospectrality problem. "
+summary: "A scientific poster titled 'Black Hole Isospectrality' by Samuel Franklin et al. from ICG Portsmouth."
 tags: ["Poster", "Black Holes", "Gravitational Waves", "Gravity"]
 categories: ["science-blog"]
 ---
+**Authors:** Samuel Franklin, Enrique Gaztañaga, Sravan Kumar, Kazuya Koyama (ICG Portsmouth)
 
-![Black Hole Isospectrality Poster](/Featured.png "Black Hole Isospectrality Poster.")
+
+
+![A scientific poster titled 'Black Hole Isospectrality' by Samuel Franklin et al. from ICG Portsmouth.](/Featured.png "A scientific poster titled 'Black Hole Isospectrality' by Samuel Franklin et al. from ICG Portsmouth.")

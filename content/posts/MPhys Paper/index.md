@@ -2,7 +2,7 @@
 title: "MPhys Paper"
 date: 2025-12-03
 draft: false
-summary: "A copy of my MPhys Thesis paper on simulating the hydrodynamics of stellar explosions followed by a pulsar wind on a moving-mesh"
+summary: "Can pulsar winds explain GRB afterglow plateaus? My thesis uses relativistic hydrodynamics to model energy injection and recreate data from Swift observations."
 tags: ["Paper", "High Energy", "Astrophysics"]
 categories: ["science-blog"]
 ---

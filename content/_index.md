@@ -1,6 +1,6 @@
 ---
 title: "Homepage"
-description: "The homepage/ bio page"
+description: "Site of Samuel Franklin, a researcher at ICG Portsmouth. Specializing in black hole perturbation theory, gravitational waves, and quantum boundary conditions."
 ---
 I'm Sam, a graduate researcher at the [Institute of Cosmology and Gravitation](https://www.port.ac.uk/research/institute-of-cosmology-and-gravitation) in Portsmouth. 
 My primary research interest is **black hole perturbation theory** and the quasinormal ringdown of gravitational waves. 

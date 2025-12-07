@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "A summary of my research interests and links to papers, talks etc.."
+description: "Explore the Black Hole Isospectrality problem and quantum horizons. Plus, investigate Black Hole Cosmologies as a solution to Dark Energy and universe origins."
 date: 2025-03-05
 showAuthor: false
 showTableOfContents: false

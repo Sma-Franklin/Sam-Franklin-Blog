@@ -2,7 +2,7 @@
 title: "Cryptic Secrets: The Pit"
 date: 2025-03-03
 draft: false
-summary: "A recent oneshot dungeon I made with goblins, mimics and pit fights"
+summary: "Escape the Goblin King in 'The Pit,' a system-agnostic TTRPG oneshot. This low-level mini-dungeon features arena combat, puzzles, and classic tropes."
 tags: ["D&D","TTRPGs"]
 categories: ["life-blog"]
 ---

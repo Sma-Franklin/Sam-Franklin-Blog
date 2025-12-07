@@ -17,7 +17,7 @@
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
       <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</guid>
-      <description>A copy of a fun coursework I completed, approximating when the last total solar eclipse will take place.</description>
+      <description>When will the last total solar eclipse occur? This physics coursework models tidal acceleration to predict the final event in roughly 530 million years.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/Featured.jpg" />
     </item>
     
@@ -27,7 +27,7 @@
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
       <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</guid>
-      <description>A copy of my MPhys Thesis paper on simulating the hydrodynamics of stellar explosions followed by a pulsar wind on a moving-mesh</description>
+      <description>Can pulsar winds explain GRB afterglow plateaus? My thesis uses relativistic hydrodynamics to model energy injection and recreate data from Swift observations.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/Featured.jpg" />
     </item>
     
@@ -37,7 +37,7 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
       <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</guid>
-      <description>A Poster Explaining the Black Hole Isospectrality problem.</description>
+      <description>A scientific poster titled &amp;lsquo;Black Hole Isospectrality&amp;rsquo; by Samuel Franklin et al. from ICG Portsmouth.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/Featured.png" />
     </item>
     
@@ -47,7 +47,7 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
       <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/</guid>
-      <description>In a recent black hole merger events a new type of gravitational wave might have been detected. Here I&amp;rsquo;ll give a quick overview of what this new signature is, how it was found and how it could be useful.</description>
+      <description>Have we missed a hidden signal in black hole mergers? Discover &amp;lsquo;direct waves&amp;rsquo;—a newly observed gravitational signature found in the GW250114 event.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/Featured.png" />
     </item>
     
@@ -57,7 +57,7 @@
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
       <guid>https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/</guid>
-      <description>A recent oneshot dungeon I made with goblins, mimics and pit fights</description>
+      <description>Escape the Goblin King in &amp;lsquo;The Pit,&amp;rsquo; a system-agnostic TTRPG oneshot. This low-level mini-dungeon features arena combat, puzzles, and classic tropes.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Sma-Franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/Featured.png" />
     </item>
     
