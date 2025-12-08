@@ -6,6 +6,14 @@ summary: "Escape the Goblin King in 'The Pit,' a system-agnostic TTRPG oneshot. 
 tags: ["D&D","TTRPGs"]
 categories: ["life-blog"]
 ---
+
+<script>
+    window.onload = function() {
+        var zenButton = document.getElementById('zen-mode-button');
+        zenButton.click();
+    };
+</script>
+
 ## Context
 'The Pit' is a recent oneshot about classic D&D tropes: goblins, mimics,  ancient magic and of course Pit fights.
 I made this to try out the 'Nimble (2.0)' system with some friends. Some are experience with TTRPGs and some new to them. So this mini-dungeon should work for any group.

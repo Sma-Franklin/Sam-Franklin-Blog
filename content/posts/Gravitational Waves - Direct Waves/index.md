@@ -7,6 +7,13 @@ tags: ["Gravitational Waves","Black Holes"]
 categories: ["science-blog"]
 ---
 
+<script>
+    window.onload = function() {
+        var zenButton = document.getElementById('zen-mode-button');
+        zenButton.click();
+    };
+</script>
+
 In a recent black hole merger event a new type of gravitational wave might have been detected. Here I'll give a quick overview of what this new signature is, how it was found and how it could be useful.
 
 ## Background

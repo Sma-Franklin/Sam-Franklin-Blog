@@ -6,4 +6,11 @@ summary: "My thoughts on Books I've been reading - Brandon Sandersons 'Way of Ki
 tags: ["Book Review","Fiction"]
 categories: ["life-blog"]
 ---
+<script>
+    window.onload = function() {
+        var zenButton = document.getElementById('zen-mode-button');
+        zenButton.click();
+    };
+</script>
+
 ## TLRD
