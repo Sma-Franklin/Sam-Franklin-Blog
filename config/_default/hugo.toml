@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://Sma-Franklin.github.io/Sam-Franklin-Blog"
+baseURL = "https://sma-franklin.github.io/Sam-Franklin-Blog/"
 defaultContentLanguage = "en"
 
 enableInlineShortcodes = true

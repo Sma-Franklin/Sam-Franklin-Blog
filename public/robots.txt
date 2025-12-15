@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://Sma-Franklin.github.io/Sam-Franklin-Blog/sitemap.xml
+Sitemap: https://sma-franklin.github.io/Sam-Franklin-Blog/sitemap.xml
