@@ -133,6 +133,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   appId = "1:838524871324:web:f0cf84c8ef26299128c359"
   measurementId = "G-7KHVRK0ZDG"
 
+[assets]
+  disableFingerprinting = true
+
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"

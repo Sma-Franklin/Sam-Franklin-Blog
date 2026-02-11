@@ -1,5 +1,5 @@
 ---
-title: "Homepage"
+title: "Samuel Franklin Homepage | Theoretical Physicist, Researcher in Quantum Gravity, Black Holes, and Gravitational Waves"
 description: "Site of Samuel Franklin, a graduate researcher at the ICG Portsmouth. Specializing in quantum effects in gravity, black holes, and gravitational waves."
 ---
 I'm Sam, a graduate researcher at the [Institute of Cosmology and Gravitation](https://www.port.ac.uk/research/institute-of-cosmology-and-gravitation) in Portsmouth. 
