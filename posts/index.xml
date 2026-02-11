@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sam&#39;s Blog</title>
+    <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/</link>
+    <description>Recent content in Posts on Sam&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
+    <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
+    <copyright>© 2026 Sam Franklin</copyright>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>When will the Last Total Solar Eclipse Take Place?</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</guid>
+      <description>When will the last total solar eclipse occur? This physics coursework models tidal acceleration to predict the final event in roughly 530 million years.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/Featured.jpg" />
+    </item>
+    
+    <item>
+      <title>MPhys Paper</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</guid>
+      <description>Can pulsar winds explain GRB afterglow plateaus? My thesis uses relativistic hydrodynamics to model energy injection and recreate data from Swift observations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/Featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Black Hole Isospectrality Poster</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</guid>
+      <description>A scientific poster titled &amp;lsquo;Black Hole Isospectrality&amp;rsquo; by Samuel Franklin et al. from ICG Portsmouth.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/Featured.png" />
+    </item>
+    
+    <item>
+      <title>New Types of Gravitational Waves</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/</guid>
+      <description>Have we missed a hidden signal in black hole mergers? Discover &amp;lsquo;direct waves&amp;rsquo;—a newly observed gravitational signature found in the GW250114 event.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/Featured.png" />
+    </item>
+    
+    <item>
+      <title>Cryptic Secrets: The Pit</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/</guid>
+      <description>Escape the Goblin King in &amp;lsquo;The Pit,&amp;rsquo; a system-agnostic TTRPG oneshot. This low-level mini-dungeon features arena combat, puzzles, and classic tropes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/Featured.png" />
+    </item>
+    
+  </channel>
+</rss>

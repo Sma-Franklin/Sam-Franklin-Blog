@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Sam&#39;s Blog</title>
+    <link>https://sma-franklin.github.io/Sam-Franklin-Blog/</link>
+    <description>Recent content in Homepage on Sam&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
+    <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
+    <copyright>© 2026 Sam Franklin</copyright>
+    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sma-franklin.github.io/Sam-Franklin-Blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/about/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/about/</guid>
+      <description>&lt;script&gt;
+    window.onload = function() {
+        var zenButton = document.getElementById(&#39;zen-mode-button&#39;);
+        zenButton.click();
+    };
+&lt;/script&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;CV 
+    &lt;div id=&#34;cv&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#cv&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Academic CV, PhD researcher at ICG Portsmouth. Details on education, publications &amp;amp; presentations, and teaching experience.&lt;/p&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Title&lt;/title&gt;
+    &lt;meta charset=&#34;UTF-8&#34; /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div id=&#34;app&#34;&gt;
+      &lt;iframe
+        src=&#34;https://drive.google.com/file/d/1I78A_1yq636xU1_rhmU3TfJOxkfESqrJ/preview&#34;
+        width=&#34;200%&#34;
+        height=&#34;1000&#34;&gt;
+      &lt;/iframe&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Recent Conferences, Schools, Workshops, Talks and Posters 
+    &lt;div id=&#34;recent-conferences-schools-workshops-talks-and-posters&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#recent-conferences-schools-workshops-talks-and-posters&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Nordic Winter School on Black Holes and Gravitational Waves; University of Copenhagen; Skeikampen, Norway - 2026&lt;/li&gt;
+&lt;li&gt;GRADnet Expo, International Student House; SEPnet; London, UK -2025&lt;/li&gt;
+&lt;li&gt;BUSSTEP; University of Nottingham, UK - 2025&lt;/li&gt;
+&lt;li&gt;Black Hole Mini Workshop; University of Portsmouth, UK - 2025&lt;/li&gt;
+&lt;li&gt;XV NExT PhD Workshop; SEPnet; Abingdon, UK - 2025 - &lt;strong&gt;Awarded Best Talk&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Faculty of Technology R&amp;amp;I Conference; University of Portsmouth, UK - 2025 - &lt;strong&gt;Awarded Best Poster&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;South Coast Cosmology Meeting; University of Portsmouth, UK - 2025&lt;/li&gt;
+&lt;li&gt;London cosmology discussion meeting; Queen Mary University; Royal Astronomical Society, London, UK - 2025&lt;/li&gt;
+&lt;li&gt;Introduction to Astronomy; STFC; Keele University, UK - 2024&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>When will the Last Total Solar Eclipse Take Place?</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</guid>
+      <description>When will the last total solar eclipse occur? This physics coursework models tidal acceleration to predict the final event in roughly 530 million years.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/Featured.jpg" />
+    </item>
+    
+    <item>
+      <title>MPhys Paper</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</guid>
+      <description>Can pulsar winds explain GRB afterglow plateaus? My thesis uses relativistic hydrodynamics to model energy injection and recreate data from Swift observations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/Featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Black Hole Isospectrality Poster</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</guid>
+      <description>A scientific poster titled &amp;lsquo;Black Hole Isospectrality&amp;rsquo; by Samuel Franklin et al. from ICG Portsmouth.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/Featured.png" />
+    </item>
+    
+    <item>
+      <title>New Types of Gravitational Waves</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/</guid>
+      <description>Have we missed a hidden signal in black hole mergers? Discover &amp;lsquo;direct waves&amp;rsquo;—a newly observed gravitational signature found in the GW250114 event.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/Featured.png" />
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/research/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/research/</guid>
+      <description>&lt;script&gt;
+    window.onload = function() {
+        var zenButton = document.getElementById(&#39;zen-mode-button&#39;);
+        zenButton.click();
+    };
+&lt;/script&gt;
+
+
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Quantum Black Holes and their Gravitational Waves 
+    &lt;div id=&#34;quantum-black-holes-and-their-gravitational-waves&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#quantum-black-holes-and-their-gravitational-waves&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;My main research centres on the is the gravtiational waves emitted by a black hole spacetime after it has been &amp;ldquo;perturbed&amp;rdquo;, meaning it has been changed by some relatively small amount. Several events can cause such a perturbation for example close encounters with other compact objects or stellar tidal distruption events. Currently, the most important way this happens is in the aftermath of a compact object merger which has the added benefit of generating an inspiral and merger signal that can be detected by the LIGO, VERGO and KAGRA gravitaitonal wave detectors.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/research/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cryptic Secrets: The Pit</title>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/</guid>
+      <description>Escape the Goblin King in &amp;lsquo;The Pit,&amp;rsquo; a system-agnostic TTRPG oneshot. This low-level mini-dungeon features arena combat, puzzles, and classic tropes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/Featured.png" />
+    </item>
+    
+  </channel>
+</rss>
