@@ -21,24 +21,19 @@ showZenMode: true
 
 {{< katex >}} 
 
-# The Black Hole Isospectrality Problem
-My main research interest at the moment is black hole perturbation theory which is used to investigate what happens to black holes when we spin or poke them a little bit. There are the two distinct types of what we call perturbations and they lead to the black hole spacetime vibrating (in annoyance):
+# Quantum Black Holes and their Gravitational Waves
+My main research centres on the is the gravtiational waves emitted by a black hole spacetime after it has been "perturbed", meaning it has been changed by some relatively small amount. Several events can cause such a perturbation for example close encounters with other compact objects or stellar tidal distruption events. Currently, the most important way this happens is in the aftermath of a compact object merger which has the added benefit of generating an inspiral and merger signal that can be detected by the LIGO, VERGO and KAGRA gravitaitonal wave detectors.
 
-![An animation of the quadropole vibration of a sphere. This is similar to how a perturbed black hole would vibrate](/images/quadrupole_vibration.gif "An animation of the quadropole vibration of a sphere. This is similar to how a perturbed black hole spacetime would vibrate.")
+Perturbed black hole spacetimes emit a ringdown signal just like a struck bell. Just like a bell this signal can only be made up of a discrete set of frequencies called the quasi-normal modes. The "quasi" part just means the normal modes decay over time, so the signal gets quieter with time as the enegry introduced by the perturbation dispurses. The exact frequencies of the quasi-normal modes depend on the black holes mass and spin. So, by measuring the ringdown we can learn about the black holes properties or test general relativity.
 
-So why am I interested in bugging black holes like this? 
-I'm interested in something called the Isospectrality problem. 
-"Iso" is a fancy way to say "equal" and "spectral" refers to the "spectrum" of the black holes vibrations. 
-So "Isospectral" means "equal spectrum", in this case the spectrums are the vibrations generated when we either "poke" or "spin" the black hole.
-Isospectrality arises from a particularly weird mathematical relationship between how a black hole reacts to being either spun or poked.
+![Animation of the quadropole vibration of a sphere. Similar to how a perturbed black hole spacetime vibrates.](/images/quadrupole_vibration.gif "Animation of the quadropole vibration of a sphere. Similar to how a perturbed black hole spacetime vibrates.")
 
-While the maths of this was discovered by Subrahmanyan Chandrasekhar in 1983, the physical understanding of it remains a puzzling mystery.
-I'm particularly interested in investigating if black hole isospectrality remains when we account for quantum effects like Hawking radiation at the black hole horizon.
+So how does the ringdown relate to quantum black holes? It turns out that introducing quantum effects at the black holes horizon (such as Hawking radiation) the ringdown signal is modified compared to the classical case. Specifically, this introduces a small reflectivity of the black hole horizon which changes the quasi-normal mode frequencies and introduces echoes to the ringdown signal. These effects are small but may be detectable with upgrades to existing gravitational wave detectors or with future detectors such as the Einstein Telescope, LISA or Cosmic Explorer.
 
 # Black Hole Cosmologies
 In standard cosmology it's assumed the universe is infinite: infinite mass spread over an infinite volume. 
-Black hole cosmologies instead assumes a finite universe: finite mass inside a finite volume. Outside of this finite volume, there is just empty nothingness outwards forever and ever (spooky).
-When we make this reasonable seeming change the universe suddenly looks like it's inside a black hole from the outside. 
+Black hole cosmologies instead assumes a finite universe: finite mass inside a finite volume. Outside of this finite volume, there is just empty vacuum.
+When we make this reasonable change the universe can suddenly look like it's inside a black hole to an observer who's outside of it. 
 
 A few more consequences of this simple change include:
 
@@ -49,7 +44,7 @@ A few more consequences of this simple change include:
 **Origin of the universe.** We now re-interpret the origin of the universe as the formation of a black hole in that outer empty space. When a massive star collapsed under its own gravity the universe contracted, smaller and smaller, into almost a single point. It then bounced and began to expand - evolving into the universe we see today.
 
 {{< alert icon="arxiv" cardColor="#1f5e96" textColor="#f1faee" >}}
-[Check out this paper for the theory](https://www.mdpi.com/2073-8994/14/9/1849)
+[Check out this paper for more details](https://www.mdpi.com/2073-8994/14/9/1849)
 {{< /alert >}}
 
 
