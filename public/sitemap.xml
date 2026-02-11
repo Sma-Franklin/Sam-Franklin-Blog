@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/about/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/about/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/posts/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/posts/mphys-paper/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/posts/black-hole-isospectrality-poster/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/posts/gravitational-waves---direct-waves/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/research/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/research/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/</loc>
+    <loc>http://localhost:1313/Sam-Franklin-Blog/posts/cryptic-secrets---the-pit/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

@@ -17,7 +17,7 @@ title = "Sam's Blog"
  [params.author]
    name = "Sam Franklin"
    email = "samuel.franklin@port.ac.uk"
-   image = "img/black-hole-drawing.png"
+   image = "img/Profile_Pic.jpeg"
    imageQuality = 96
    headline = " 'The black holes of nature are the most perfect macroscopic objects there are in the Universe' - Subrahmanyan Chandrasekhar"
    bio = "I'm a PhD candidate studying black holes, gravity and cosmology"
