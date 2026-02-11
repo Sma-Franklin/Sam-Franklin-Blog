@@ -1,6 +1,6 @@
 ---
 title: "Homepage"
-description: "Site of Samuel Franklin, a physics researcher at ICG Portsmouth. Specializing in black hole perturbation theory, gravitational waves, and quantum boundary conditions."
+description: "Site of Samuel Franklin, a graduate researcher at the ICG Portsmouth. Specializing in quantum effects in gravity, black holes, and gravitational waves."
 ---
 I'm Sam, a graduate researcher at the [Institute of Cosmology and Gravitation](https://www.port.ac.uk/research/institute-of-cosmology-and-gravitation) in Portsmouth. 
 I'm currently researching quantum effects in gravity, black holes, and gravitational waves.
