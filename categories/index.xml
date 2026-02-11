@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sam&#39;s Blog</title>
-    <link>https://sma-franklin.github.io/Sam-Franklin-Blog/categories/</link>
+    <link>http://localhost:1313/Sam-Franklin-Blog/categories/</link>
     <description>Recent content in Categories on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
     <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
     <copyright>© 2026 Sam Franklin</copyright>
-    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sma-franklin.github.io/Sam-Franklin-Blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sam-Franklin-Blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Science-Blog</title>
-      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/categories/science-blog/</link>
+      <link>http://localhost:1313/Sam-Franklin-Blog/categories/science-blog/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/categories/science-blog/</guid>
+      <guid>http://localhost:1313/Sam-Franklin-Blog/categories/science-blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Life-Blog</title>
-      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/categories/life-blog/</link>
+      <link>http://localhost:1313/Sam-Franklin-Blog/categories/life-blog/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/categories/life-blog/</guid>
+      <guid>http://localhost:1313/Sam-Franklin-Blog/categories/life-blog/</guid>
       <description></description>
       
     </item>
