@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
-	<meta name="generator" content="Hugo 0.143.1"><script src="/Sam-Franklin-Blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=Sam-Franklin-Blog/livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.143.1">
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -16,7 +16,7 @@
   
   
   
-  <link rel="canonical" href="http://localhost:1313/Sam-Franklin-Blog/" />
+  <link rel="canonical" href="https://sma-franklin.github.io/Sam-Franklin-Blog/" />
   
   <link rel="alternate" type="application/rss+xml" href="/Sam-Franklin-Blog/index.xml" title="Sam's Blog" />
   
@@ -69,7 +69,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/Sam-Franklin-Blog/">
+  <meta property="og:url" content="https://sma-franklin.github.io/Sam-Franklin-Blog/">
   <meta property="og:site_name" content="Sam&#39;s Blog">
   <meta property="og:title" content="Homepage">
   <meta property="og:description" content="Site of Samuel Franklin, a physics researcher at ICG Portsmouth. Specializing in black hole perturbation theory, gravitational waves, and quantum boundary conditions.">
@@ -86,11 +86,11 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": "http:\/\/localhost:1313\/Sam-Franklin-Blog\/",
+    "@id": "https:\/\/sma-franklin.github.io\/Sam-Franklin-Blog\/",
     "name": "Sam\u0027s Blog",
     "description": "My place to yap about black holes, boardgames and life",
     "inLanguage": "en",
-    "url": "http:\/\/localhost:1313\/Sam-Franklin-Blog\/",
+    "url": "https:\/\/sma-franklin.github.io\/Sam-Franklin-Blog\/",
     
     "publisher" : {
       "@type": "Person",
@@ -155,6 +155,29 @@
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyBDNnAUdrpok_TlMTMLdII1fqjhkDOgajQ",
+      authDomain: "AIzaSyBDNnAUdrpok_TlMTMLdII1fqjhkDOgajQ",
+      projectId: "sma-blog",
+      storageBucket: "sma-blog.firebasestorage.app",
+      messagingSenderId: "838524871324",
+      appId: "1:838524871324:web:f0cf84c8ef26299128c359",
+      measurementId: "G-7KHVRK0ZDG"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
@@ -683,8 +706,8 @@
                     <section class="prose dark:prose-invert"><p>I&rsquo;m Sam, a graduate researcher at the <a href="https://www.port.ac.uk/research/institute-of-cosmology-and-gravitation" target="_blank">Institute of Cosmology and Gravitation</a> in Portsmouth.
 I&rsquo;m currently researching quantum effects in gravity, black holes, and gravitational waves.</p>
 <p>I am supervised by <a href="https://darkcosmos.com/" target="_blank">Professor Enrique Gaztanaga</a>, <a href="https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/kazuya-koyama" target="_blank">Professor Kazuya Koyama</a>, and <a href="https://researchportal.port.ac.uk/en/persons/sravan-kumar-korumilli/" target="_blank">Dr Sravan Kumar Korumilli</a>.</p>
-<p>For more information on my current interests visit my <a href="http://localhost:1313/Sam-Franklin-Blog/research/">research</a> page.
-For more information on my past work and how to contact me visit my <a href="http://localhost:1313/Sam-Franklin-Blog/about/">about</a> page.</p>
+<p>For more information on my current interests visit my <a href="https://sma-franklin.github.io/Sam-Franklin-Blog/research/">research</a> page.
+For more information on my past work and how to contact me visit my <a href="https://sma-franklin.github.io/Sam-Franklin-Blog/about/">about</a> page.</p>
 <hr>
 <p>Aside from physics I have a wide variety of hobbies including: reading, board games, weight lifting, guitar, and mini-painting.
 I&rsquo;ll be posting about some of these interests here alongside my science posts.</p>
@@ -1783,7 +1806,7 @@ I&rsquo;ll be posting about some of these interests here alongside my science po
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:1313/Sam-Franklin-Blog/"
+  data-url="https://sma-franklin.github.io/Sam-Franklin-Blog/"
   style="z-index:500"
 >
   <div
