@@ -6,10 +6,6 @@ theme = "blowfish"
 baseURL = "https://sma-franklin.github.io/Sam-Franklin-Blog/"
 defaultContentLanguage = "en"
 
-[params]
-  [params.assets]
-    disableFingerprinting = true
-
 enableInlineShortcodes = true
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
