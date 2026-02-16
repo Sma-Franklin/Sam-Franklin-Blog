@@ -5,6 +5,7 @@ draft: false
 summary: "A scientific poster titled 'Black Hole Isospectrality' by Samuel Franklin et al. from ICG Portsmouth."
 tags: ["Poster", "Black Holes", "Gravitational Waves", "Gravity"]
 categories: ["science-blog"]
+showZenMode: true
 ---
 **Authors:** Samuel Franklin, Enrique Gaztañaga, Sravan Kumar, Kazuya Koyama (ICG Portsmouth)
 

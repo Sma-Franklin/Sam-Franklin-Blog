@@ -5,6 +5,7 @@ draft: false
 summary: "Escape the Goblin King in 'The Pit,' a system-agnostic TTRPG oneshot. This low-level mini-dungeon features arena combat, puzzles, and classic tropes."
 tags: ["D&D","TTRPGs"]
 categories: ["life-blog"]
+showZenMode: true
 ---
 
 <script>

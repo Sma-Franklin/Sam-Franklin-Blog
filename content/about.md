@@ -4,6 +4,7 @@ description: "Academic CV of Samuel Franklin, PhD researcher at ICG Portsmouth. 
 date: 2025-12-06
 showHero: true
 heroStyle: "background"
+showZenMode: true
 ---
 <script>
     window.onload = function() {
