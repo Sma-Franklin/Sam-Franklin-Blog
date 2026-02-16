@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astrophysics on Sam&#39;s Blog</title>
-    <link>http://localhost:1313/Sam-Franklin-Blog/tags/astrophysics/</link>
+    <link>https://sma-franklin.github.io/Sam-Franklin-Blog/tags/astrophysics/</link>
     <description>Recent content in Astrophysics on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>samuel.franklin@port.ac.uk (Sam Franklin)</managingEditor>
     <webMaster>samuel.franklin@port.ac.uk (Sam Franklin)</webMaster>
     <copyright>© 2026 Sam Franklin</copyright>
-    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sam-Franklin-Blog/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sma-franklin.github.io/Sam-Franklin-Blog/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>When will the Last Total Solar Eclipse Take Place?</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</link>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</guid>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/</guid>
       <description>When will the last total solar eclipse occur? This physics coursework models tidal acceleration to predict the final event in roughly 530 million years.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/Featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/when-will-the-last-solar-eclipse-take-place/Featured.jpg" />
     </item>
     
     <item>
       <title>MPhys Paper</title>
-      <link>http://localhost:1313/Sam-Franklin-Blog/posts/mphys-paper/</link>
+      <link>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <author>samuel.franklin@port.ac.uk (Sam Franklin)</author>
-      <guid>http://localhost:1313/Sam-Franklin-Blog/posts/mphys-paper/</guid>
+      <guid>https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/</guid>
       <description>Can pulsar winds explain GRB afterglow plateaus? My thesis uses relativistic hydrodynamics to model energy injection and recreate data from Swift observations.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Sam-Franklin-Blog/posts/mphys-paper/Featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sma-franklin.github.io/Sam-Franklin-Blog/posts/mphys-paper/Featured.jpg" />
     </item>
     
   </channel>
