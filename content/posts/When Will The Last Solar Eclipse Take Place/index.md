@@ -7,6 +7,7 @@ tags: ["Paper", "Astrophysics"]
 categories: ["science-blog"]
 showZenMode: true
 ---
+
 <script>
     window.onload = function() {
         var zenButton = document.getElementById('zen-mode-button');
@@ -14,6 +15,6 @@ showZenMode: true
     };
 </script>
 
-This paper models tidal acceleration to predict how long it will be before a total solar eclipse is impossible due to the moons motion away from Earth. 
+This paper models tidal acceleration to predict how long it will be before a total solar eclipse is impossible due to the moons motion away from Earth.
 
 {{< pdfReader "When_will_the_Last_Total_Solar_Eclipse_Take_Place.pdf" >}}

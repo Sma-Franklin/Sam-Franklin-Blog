@@ -5,7 +5,15 @@ draft: false
 summary: "Can pulsar winds explain GRB afterglow plateaus? My thesis uses relativistic hydrodynamics to model energy injection and recreate data from Swift observations."
 tags: ["Paper", "High Energy", "Astrophysics"]
 categories: ["science-blog"]
+showZenMode: true
 ---
+
+<script>
+    window.onload = function() {
+        var zenButton = document.getElementById('zen-mode-button');
+        zenButton.click();
+    };
+</script>
 
 A copy of my MPhys Thesis paper on simulating the hydrodynamics of stellar explosions followed by a pulsar wind on a moving-mesh. 
 

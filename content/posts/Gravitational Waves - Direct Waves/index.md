@@ -5,6 +5,7 @@ draft: false
 summary: "Have we missed a hidden signal in black hole mergers? Discover 'direct waves'—a newly observed gravitational signature found in the GW250114 event."
 tags: ["Gravitational Waves","Black Holes"]
 categories: ["science-blog"]
+showZenMode: true
 ---
 
 <script>
